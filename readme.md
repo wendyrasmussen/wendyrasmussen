@@ -1,21 +1,22 @@
-## Bio: 
+# Bio: 
 Clinical psychologist, Navy veteran, and UC Berkeley Haas EMBA '26. I study why people resist new technology—and how to help them move forward. Founder of Alpenglow Insights, where I measure the psychological barriers that derail AI adoption before organizations invest in training that doesn't stick. Building tools that translate behavioral science into actionable workforce readiness insights.
 
-### Interests:
-Human-Technology Interaction
+# Interests:
 
-Psychological barriers to AI adoption
-Self-Determination Theory in organizational change
-Measuring readiness before implementation
+## Human-Technology Interaction
 
-Healthcare & Social Impact
+- Psychological barriers to AI adoption
+- Self-Determination Theory in organizational change
+- Measuring readiness before implementation
 
-Digital health adoption
-Behavioral health technology
-Clinical research translation
+## Healthcare & Social Impact
 
-Open Questions I'm Exploring
+- Digital health adoption
+- Behavioral health technology
+- Clinical research translation
 
-Can we predict AI resistance before it happens?
-What makes some teams embrace automation while others reject it?
-How do we make workforce transformation more humane?
+## Open Questions I'm Exploring
+
+- Can we predict AI resistance before it happens?
+- What makes some teams embrace automation while others reject it?
+- How do we make workforce transformation more humane?
