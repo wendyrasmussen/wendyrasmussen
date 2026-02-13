@@ -1,6 +1,9 @@
-Hello GitHub World
-## Bio: Clinical psychologist, Navy veteran, and UC Berkeley Haas EMBA '26. I study why people resist new technology—and how to help them move forward. Founder of Alpenglow Insights, where I measure the psychological barriers that derail AI adoption before organizations invest in training that doesn't stick. Building tools that translate behavioral science into actionable workforce readiness insights.
-## Interests:
+# Hello GitHub World
+
+## Bio: 
+Clinical psychologist, Navy veteran, and UC Berkeley Haas EMBA '26. I study why people resist new technology—and how to help them move forward. Founder of Alpenglow Insights, where I measure the psychological barriers that derail AI adoption before organizations invest in training that doesn't stick. Building tools that translate behavioral science into actionable workforce readiness insights.
+
+### Interests:
 Human-Technology Interaction
 
 Psychological barriers to AI adoption
